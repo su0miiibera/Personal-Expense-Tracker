@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "date": "2026-01-05",
+        "category": "Food",
+        "amount": 450.0,
+        "description": "Grocery shopping at supermarket"
+    },
+    {
+        "id": 2,
+        "date": "2026-01-08",
+        "category": "Travel",
+        "amount": 1200.0,
+        "description": "Monthly metro transit pass"
+    },
+    {
+        "id": 3,
+        "date": "2026-01-12",
+        "category": "Education",
+        "amount": 3500.0,
+        "description": "Python & Data Science textbook and courses"
+    },
+    {
+        "id": 4,
+        "date": "2026-01-15",
+        "category": "Shopping",
+        "amount": 2200.0,
+        "description": "Winter jacket and winter boots"
+    },
+    {
+        "id": 5,
+        "date": "2026-01-20",
+        "category": "Entertainment",
+        "amount": 650.0,
+        "description": "Movie ticket and snacks with friends"
+    },
+    {
+        "id": 6,
+        "date": "2026-01-25",
+        "category": "Utilities",
+        "amount": 1800.0,
+        "description": "High-speed fiber internet bill"
+    },
+    {
+        "id": 7,
+        "date": "2026-01-28",
+        "category": "Food",
+        "amount": 320.0,
+        "description": "Dinner at cafe"
+    },
+    {
+        "id": 8,
+        "date": "2026-02-02",
+        "category": "Food",
+        "amount": 580.0,
+        "description": "Weekly vegetables and fruits"
+    },
+    {
+        "id": 9,
+        "date": "2026-02-07",
+        "category": "Travel",
+        "amount": 850.0,
+        "description": "Cab fare for client site visit"
+    },
+    {
+        "id": 10,
+        "date": "2026-02-14",
+        "category": "Entertainment",
+        "amount": 1500.0,
+        "description": "Valentine concert tickets"
+    },
+    {
+        "id": 11,
+        "date": "2026-02-18",
+        "category": "Education",
+        "amount": 1200.0,
+        "description": "Technical conference registration"
+    },
+    {
+        "id": 12,
+        "date": "2026-02-22",
+        "category": "Shopping",
+        "amount": 1750.0,
+        "description": "Casual sneakers on sale"
+    },
+    {
+        "id": 13,
+        "date": "2026-02-27",
+        "category": "Healthcare",
+        "amount": 950.0,
+        "description": "Annual health checkup and medicine"
+    },
+    {
+        "id": 14,
+        "date": "2026-03-03",
+        "category": "Food",
+        "amount": 620.0,
+        "description": "Family lunch at Italian restaurant"
+    },
+    {
+        "id": 15,
+        "date": "2026-03-09",
+        "category": "Travel",
+        "amount": 1400.0,
+        "description": "Train tickets for weekend family trip"
+    },
+    {
+        "id": 16,
+        "date": "2026-03-14",
+        "category": "Education",
+        "amount": 2800.0,
+        "description": "Semester library and lab fees"
+    },
+    {
+        "id": 17,
+        "date": "2026-03-19",
+        "category": "Entertainment",
+        "amount": 800.0,
+        "description": "Streaming platform annual renewal"
+    },
+    {
+        "id": 18,
+        "date": "2026-03-24",
+        "category": "Shopping",
+        "amount": 3100.0,
+        "description": "Ergonomic study desk chair"
+    },
+    {
+        "id": 19,
+        "date": "2026-03-29",
+        "category": "Utilities",
+        "amount": 2100.0,
+        "description": "Electricity and water utility bills"
+    },
+    {
+        "id": 20,
+        "date": "2026-04-04",
+        "category": "Food",
+        "amount": 780.0,
+        "description": "Organic grocery haul"
+    },
+    {
+        "id": 21,
+        "date": "2026-04-10",
+        "category": "Travel",
+        "amount": 600.0,
+        "description": "Fuel refills for scooter"
+    },
+    {
+        "id": 22,
+        "date": "2026-04-16",
+        "category": "Education",
+        "amount": 1500.0,
+        "description": "Certification exam booking"
+    },
+    {
+        "id": 23,
+        "date": "2026-04-21",
+        "category": "Shopping",
+        "amount": 1300.0,
+        "description": "Summer clothing"
+    },
+    {
+        "id": 24,
+        "date": "2026-04-26",
+        "category": "Entertainment",
+        "amount": 500.0,
+        "description": "Board games arcade entry"
+    },
+    {
+        "id": 25,
+        "date": "2026-04-28",
+        "category": "Healthcare",
+        "amount": 450.0,
+        "description": "Prescription vitamins & supplements"
+    },
+    {
+        "id": 26,
+        "date": "2026-05-12",
+        "category": "Shopping",
+        "amount": 899.5,
+        "description": "Valid new summer shirt"
+    }
+]

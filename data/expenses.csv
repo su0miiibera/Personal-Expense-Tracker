@@ -1,0 +1,26 @@
+ID,Date,Category,Amount,Description
+1,2026-01-05,Food,450.00,Grocery shopping at supermarket
+2,2026-01-08,Travel,1200.00,Monthly metro transit pass
+3,2026-01-12,Education,3500.00,Python & Data Science textbook and courses
+4,2026-01-15,Shopping,2200.00,Winter jacket and winter boots
+5,2026-01-20,Entertainment,650.00,Movie ticket and snacks with friends
+6,2026-01-25,Utilities,1800.00,High-speed fiber internet bill
+7,2026-01-28,Food,320.00,Dinner at cafe
+8,2026-02-02,Food,580.00,Weekly vegetables and fruits
+9,2026-02-07,Travel,850.00,Cab fare for client site visit
+10,2026-02-14,Entertainment,1500.00,Valentine concert tickets
+11,2026-02-18,Education,1200.00,Technical conference registration
+12,2026-02-22,Shopping,1750.00,Casual sneakers on sale
+13,2026-02-27,Healthcare,950.00,Annual health checkup and medicine
+14,2026-03-03,Food,620.00,Family lunch at Italian restaurant
+15,2026-03-09,Travel,1400.00,Train tickets for weekend family trip
+16,2026-03-14,Education,2800.00,Semester library and lab fees
+17,2026-03-19,Entertainment,800.00,Streaming platform annual renewal
+18,2026-03-24,Shopping,3100.00,Ergonomic study desk chair
+19,2026-03-29,Utilities,2100.00,Electricity and water utility bills
+20,2026-04-04,Food,780.00,Organic grocery haul
+21,2026-04-10,Travel,600.00,Fuel refills for scooter
+22,2026-04-16,Education,1500.00,Certification exam booking
+23,2026-04-21,Shopping,1300.00,Summer clothing
+24,2026-04-26,Entertainment,500.00,Board games arcade entry
+25,2026-04-28,Healthcare,450.00,Prescription vitamins & supplements
